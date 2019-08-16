@@ -11,7 +11,8 @@ body {
     background-color: #777;
     width: 960px;
     font-size: 18px;
-    box-align: center;
+
+
 }
 
 header {
@@ -25,18 +26,26 @@ nav {
 section {
     background-color: #ebebeb;
     width: 495px;
+    height: 300px;
     float: left;
+    
 }
 aside {
     background-color: #ebebeb;
     width: 400px;
-    float: left;
+    height: 300px;
+    float: right;
+    
+
 }
 
 article {
+    color: both;
     color: #ebebeb;
     background-color: #777;
     width: 400px;
+    position: relative center;
+
 }
 
 h1 p {
